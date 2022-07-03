@@ -1218,7 +1218,7 @@ const css = csjs`
   }
 `
 
-document.body.append(page())
+//document.body.append(page())
 },{"about":26,"bel":2,"csjs-inject":5,"footer":27,"projects":29,"proposals":30,"start_page":31}],26:[function(require,module,exports){
 const bel = require('bel')
 const csjs = require('csjs-inject')
